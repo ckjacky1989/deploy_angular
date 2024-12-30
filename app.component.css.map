@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/app.component.css"],
+  "sourcesContent": ["/*  Name: Cham Kuen Chow\r\n    Date Updated: Nov 28 2024\r\n    Description: CSS for template of assignment 4\r\n    Email: chowcham@sheridancollege.ca*/\r\n/* wrapper for cards */\r\n.gridblock {\r\n    display: grid;\r\n    /*Width of mat-card ranges from 200px to 1 fraction*/\r\n    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));\r\n    gap: 10px;\r\n\r\n  }\r\n  \r\nmat-card-content{\r\n    text-align: center;\r\n  }\r\nmat-toolbar {\r\n    color:#fff;\r\n    background-color:blueviolet;\r\n}\r\n.toolbar-row-flex {\r\n    display: flex; \r\n    flex-wrap: wrap; \r\n    /* Make space between flex items */\r\n    justify-content: space-between; \r\n    /* Align items vertically to the center */\r\n    align-items: center; \r\n}\r\n"],
+  "mappings": ";AAKA,CAAC;AACG,WAAS;AAET,yBAAuB,OAAO,SAAS,EAAE,OAAO,KAAK,EAAE;AACvD,OAAK;AAEP;AAEF;AACI,cAAY;AACd;AACF;AACI,SAAM;AACN,oBAAiB;AACrB;AACA,CAAC;AACG,WAAS;AACT,aAAW;AAEX,mBAAiB;AAEjB,eAAa;AACjB;",
+  "names": []
+}
